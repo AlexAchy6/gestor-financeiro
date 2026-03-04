@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Gestor de Gastos Anual",
+  "description": "Um painel financeiro para acompanhar gastos por centro de custo e categoria durante o ano.",
+  "requestFramePermissions": []
+}
